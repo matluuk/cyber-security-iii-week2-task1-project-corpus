@@ -1,0 +1,2 @@
+fuzz_roundtrip
+fuzz_deserialize
